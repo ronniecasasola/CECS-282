@@ -1,2 +1,2 @@
 # CECS282
-Lab work for CECS 282 at CSULB
+Coding assignments for CECS 282 Spring 2017
